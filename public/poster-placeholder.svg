@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <rect width="300" height="420" fill="#f4f4f5" />
+  <rect x="0.5" y="0.5" width="299" height="419" fill="none" stroke="#e4e4e7" />
+  <g fill="none" stroke="#a1a1aa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="95" y="160" width="110" height="80" rx="6" />
+    <path d="M120 160l16 26M150 160l16 26M180 160l16 26M95 214h110" />
+  </g>
+  <text x="150" y="290" text-anchor="middle" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="15">
+    No poster available
+  </text>
+</svg>
